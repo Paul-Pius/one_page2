@@ -317,6 +317,7 @@
   margin-left: 10rem;
   font-size: 1.563rem;
   margin-top: 0.8rem;
+  font-weight: bold;
 }
 
 .sixx {
@@ -472,3 +473,156 @@
   margin-top: 0.5rem;
 }
 
+.priceis {
+  color: #FCAF30;
+  font-size: 20px;
+  margin-left: 4rem;
+}
+
+.sixfifty {
+  margin-right: 1.5rem;
+}
+
+.sqm {
+  margin-top: -0.5rem; 
+  font-size: 15px; 
+  position: absolute; 
+  margin-left: 10.7rem;
+}
+
+.sqm2 {
+  margin-top: 1.7rem; 
+  font-size: 15px; 
+  margin-left: -2.5rem; 
+  position: absolute;
+}
+
+.ava {
+  font-size: 10px;
+  margin-left: 3.8rem;
+  font-weight: bold;
+}
+
+.and {
+  color: #FCAF30; 
+  font-size: 40px;
+  margin-top: -3rem;
+  margin-left: 5rem;
+  margin-bottom: -4.8rem;
+}
+
+.three {
+  margin-top: -0.5rem; 
+  font-weight: bold; 
+  margin-left: 2rem;
+}
+
+.five {
+  margin-left: 6.7rem; 
+  margin-top: 1.8rem; 
+  font-weight: bold;
+}
+
+.sqm3 {
+  color: #fff; 
+  margin-top: 2.3rem; 
+  position: absolute; 
+  margin-left: 2.8rem; 
+  font-weight: bold;
+}
+
+.sqm4 {
+  color: #fff; 
+  margin-top: 2.3rem; 
+  position: absolute; 
+  margin-left: 6.7rem; 
+  font-weight: bold;
+}
+
+.planavailable {
+  color: #fff; 
+  margin-left: 46rem; 
+  position: absolute; 
+  margin-top: 84.2rem;
+}
+
+.landm {
+  color: #fff; 
+  margin-left: 55.8rem; 
+  position: absolute; 
+  margin-top: 86.5rem; 
+  font-size: 35px;
+}
+
+.sitei {
+  color: #fff; 
+  margin-left: 2rem; 
+  position: absolute; 
+  margin-top: 86rem; 
+  font-size: 35px;
+}
+
+.ws {
+  color: #fff; 
+  margin-left: 2rem; 
+  position: absolute; 
+  margin-top: 88.5rem; 
+  font-size: 35px; 
+  font-weight: bold;
+}
+
+.herbert {
+  color: #fff; 
+  margin-left: 6rem; 
+  position: absolute; 
+  margin-top: 100rem; 
+  font-size: 35px;
+}
+
+.yabal {
+  color: #fff; 
+  margin-left: 6rem; 
+  position: absolute; 
+  margin-top: 102.2rem; 
+  font-size: 35px;
+}
+
+.augustine {
+    color: #FCAF30; 
+    margin-left: 54rem; 
+    position: absolute; 
+    margin-top: 90.5rem; 
+    font-size: 25px;
+}
+
+.yabatech {
+  color: #FCAF30; 
+  margin-left: 59rem; 
+  position: absolute; 
+  margin-top: 90rem; 
+  font-size: 25px;
+}
+
+.acctdetails {
+  color: #fff; 
+  margin-left: 57.5rem; 
+  position: absolute; 
+  margin-top: 95.5rem; 
+  font-size: 20px;
+}
+
+.number {
+  color: #FCAF30; 
+  margin-left: 59.5rem; 
+  position: absolute; 
+  margin-top: 98rem; 
+  font-size: 20px;
+}
+
+.gtbank {
+  color: #FCAF30; 
+  margin-left: 56.5rem; 
+  position: absolute; 
+  margin-top: 100.5rem; 
+  font-size: 20px;
+}

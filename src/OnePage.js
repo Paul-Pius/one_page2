@@ -25,9 +25,9 @@ const OnePage = () => {
                     <div className='redcirc'>
                         <h1 className="sixx">6</h1>
                         <p className='buy'>Buy</p>
-                        <p className='buy' style={{fontWeight: "bold"}}>Plots</p>
-                        <p className='buy' style={{fontWeight: "bold"}}>& Get</p>
-                        <p className='buy' style={{fontWeight: "bold"}}>1 Free</p>
+                        <p className='buy'>Plots</p>
+                        <p className='buy'>& Get</p>
+                        <p className='buy'>1 Free</p>
                     </div>
 
                 <div className="cyldiv">
@@ -41,45 +41,25 @@ const OnePage = () => {
                     </div>
 
                     <div className="price2">
-                        <span style={{color: "#FCAF30", fontSize: "20px", marginLeft: "4rem"}}>PRICE IS:</span> <br />
-                        <span style={{marginRight: "1.5rem"}}>#650,000 | 300</span> <br />
-                        <span style={{marginTop: "-0.5rem", fontSize: "15px", position: "absolute", marginLeft: "10.7rem"}}>sqm</span>
+                        <span className="priceis">PRICE IS:</span> <br />
+                        <span className="sixfifty">#650,000 | 300</span> <br />
+                        <span className="sqm">sqm</span>
                         <span>#1,000,000 | 500</span>
-                        <span style={{marginTop: "1.7rem", fontSize: "15px", marginLeft: "-2.5rem", position: "absolute"}}>sqm</span>
+                        <span className="sqm2">sqm</span>
                     </div>
 
                     <div className="blackdiv">
                         <div className="blkdetails">
-                            <span style={{
-                                fontSize: "10px", 
-                                marginLeft: "3.8rem",
-                                fontWeight: "bold"
-                                }}>Available In:</span> <br />
+                            <span className="ava">Available In:</span> <br />
 
-                            <h2 style={{marginTop: "-0.5rem", fontWeight: "bold", marginLeft: "2rem"}}>300</h2>
-                            <h2 style={{
-                                color: "#FCAF30", 
-                                fontSize: "40px",
-                                marginTop: "-3rem",
-                                marginLeft: "5rem",
-                                marginBottom: "-4.8rem"
-                                }}>&</h2>
+                            <h2 className="three">300</h2>
+                            <h2 className="and">&</h2>
 
-                            <h2 style={{marginLeft: "6.7rem", marginTop: "1.8rem", fontWeight: "bold"}}>500</h2>
+                            <h2 className="five">500</h2>
                         </div>
-                        <p style={{
-                            color: "#fff", 
-                            marginTop: "2.3rem", 
-                            position: "absolute", 
-                            marginLeft: "2.8rem", 
-                            fontWeight: "bold"}}>sqm</p>
+                        <p className="sqm3">sqm</p>
 
-                        <p style={{
-                            color: "#fff", 
-                            marginTop: "2.3rem", 
-                            position: "absolute", 
-                            marginLeft: "6.7rem", 
-                            fontWeight: "bold"}}>sqm</p>
+                        <p className="sqm4">sqm</p>
                     </div>
                 </div>
 
@@ -151,17 +131,17 @@ const OnePage = () => {
                 
                     <div className="linediv">
                     </div>
-                        <p style={{color: "#fff", marginLeft: "46rem", position: "absolute", marginTop: "84.2rem"}}>6 Months Plan Available</p>
-                        <p style={{color: "#fff", marginLeft: "55.8rem", position: "absolute", marginTop: "86.5rem", fontSize: "35px"}}>L A N D M A R K</p>
-                        <p style={{color: "#fff", marginLeft: "2rem", position: "absolute", marginTop: "86rem", fontSize: "35px"}}>SITE INSPECTION TAKE PLACE ON</p>
-                        <p style={{color: "#fff", marginLeft: "2rem", position: "absolute", marginTop: "88.5rem", fontSize: "35px", fontWeight: "bold"}}>WEDNESDAY & SATURDAY</p>
-                        <p style={{color: "#fff", marginLeft: "6rem", position: "absolute", marginTop: "100rem", fontSize: "35px"}}>315 HERBERT MACAULEY WAY SABO</p>
-                        <p style={{color: "#fff", marginLeft: "6rem", position: "absolute", marginTop: "102.2rem", fontSize: "35px"}}>YABA LAGOS</p>
-                        <p style={{color: "#FCAF30", marginLeft: "59rem", position: "absolute", marginTop: "90rem", fontSize: "25px"}}>YABATECH</p> <br />
-                        <p style={{color: "#FCAF30", marginLeft: "54rem", position: "absolute", marginTop: "90.5rem", fontSize: "25px"}}>AUGUSTINE UNIVERSITY</p>
-                        <p style={{color: "#fff", marginLeft: "57.5rem", position: "absolute", marginTop: "95.5rem", fontSize: "20px"}}>ACCOUNT DETAILS</p>
-                        <p style={{color: "#FCAF30", marginLeft: "59.5rem", position: "absolute", marginTop: "98rem", fontSize: "20px"}}>0465073660</p>
-                        <p style={{color: "#FCAF30", marginLeft: "56.5rem", position: "absolute", marginTop: "100.5rem", fontSize: "20px"}}>Propadi Limited | GTBank</p>
+                        <p className="planavailable">6 Months Plan Available</p>
+                        <p className="landm">L A N D M A R K</p>
+                        <p className="sitei">SITE INSPECTION TAKE PLACE ON</p>
+                        <p className="ws">WEDNESDAY & SATURDAY</p>
+                        <p className="herbert">315 HERBERT MACAULEY WAY SABO</p>
+                        <p className="yabal">YABA LAGOS</p>
+                        <p className="yabatech">YABATECH</p> <br />
+                        <p className="augustine">AUGUSTINE UNIVERSITY</p>
+                        <p className="acctdetails">ACCOUNT DETAILS</p>
+                        <p className="number">0465073660</p>
+                        <p className="gtbank">Propadi Limited | GTBank</p>
 
                     <div className="square2div">
                         <img className="human2" src={human2} alt="human2"></img>
@@ -184,7 +164,6 @@ const OnePage = () => {
                     <div className="square1div6"></div>
                     <div className="square1div7"></div>
 
-            
         </div>
   )
 }
